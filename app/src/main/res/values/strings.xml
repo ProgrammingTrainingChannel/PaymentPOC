@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">PaymentPOC</string>
+    <string name="text_money_transfer_description">Money Transfer Description</string>
+    <string name="text_developed_by">Bereket Tolcha</string>
+    <string name="text_designed_and_developed_by">Designed and Developed by:</string>
+    <string name="text_login_header">Enter Email and Password and click LOGIN</string>
+    <string name="text_email">Email</string>
+    <string name="text_password">Password</string>
+    <string name="text_login">Login</string>
+    <string name="text_not_registered">Not Registered ?</string>
+    <string name="text_already_have_an_account">Already have an account ?</string>
+    <string name="text_submit">Submit</string>
+    <string name="text_register">Please complete the below form and click SUBMIT</string>
+    <string name="text_phone_number">Phone number</string>
+    <string name="text_last_name">Last name</string>
+    <string name="text_first_name">First name</string>
 </resources>
